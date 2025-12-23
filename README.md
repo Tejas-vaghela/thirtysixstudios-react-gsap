@@ -1,26 +1,53 @@
-# 🚀 Thirtysixstudios – React + GSAP Animation Project
+# ThirtySix Studio - Agency Portfolio
 
-A modern animated website built using **React** and **GSAP**, inspired by the creative animations of Thirtysixstudios.  
-This project is created for learning purposes and to showcase frontend animation skills.
+![ThirtySix Studio Banner](./36.png)
 
-## 🛠️ Tech Stack
-- React
-- JavaScript (ES6)
-- GSAP (GreenSock Animation Platform)
-- CSS / Tailwind CSS (if used)
+Welcome to **ThirtySix Studio**, a modern, minimalistic agency portfolio built with **React**, **Tailwind CSS**, and **GSAP** animations. This project is designed to showcase a sleek, responsive design with interactive animations, suitable for agencies and freelancers looking for a visually engaging portfolio website.
 
-## ✨ Features
-- Smooth GSAP animations
-- Modern UI & transitions
-- Reusable React components
-- Beginner-friendly project structure
-- Resume-ready animation project
+## Table of Contents
 
-## 📌 Purpose
-This project is built to practice:
-- React component structure
-- GSAP timeline & scroll animations
-- Modern frontend development
+- [About the Project](#about-the-project)
+- [Technologies Used](#technologies-used)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [File Structure](#file-structure)
+- [Contributing](#contributing)
+- [License](#license)
 
-⚠️ *Disclaimer:*  
-This project is **inspired by Thirtysixstudios** and is created only for **educational purposes**.
+---
+
+## About the Project
+
+ThirtySix Studio aims to blend modern design principles with seamless animations to provide an exceptional user experience. Leveraging **React** for the front-end, **Tailwind CSS** for styling, and **GSAP** for smooth animations, this project is a great base for building a high-quality portfolio website.
+
+## Technologies Used
+
+- **React** - JavaScript library for building user interfaces
+- **Tailwind CSS** - Utility-first CSS framework
+- **GSAP** - Animation library for smooth and advanced animations
+
+---
+
+## Features
+
+- **Smooth Animations:** Animated page transitions and interactive elements powered by GSAP.
+- **Minimalistic UI:** Clean, focused design with intuitive navigation.
+- **Reusable Components:** Built with reusable and customizable React components.
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+Ensure you have **Node.js** and **npm** installed.
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/asynchronousJavascriptor/thirtysixstudio.git
+   cd thirtysixstudio
+   npm install
+   npm run dev
+   server starts on localhost:5173
